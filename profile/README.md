@@ -1,12 +1,34 @@
-## Hi there 👋
+# MIRAGE Benchmark
 
-<!--
+<div align="center">
+  <img src="data-logo.png" alt="MIRAGE Data Logo" width="400"/>
+</div>
 
-**Here are some ideas to get you started:**
+## 🏆 Leaderboard
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<div align="center">
+  <img src="Leaderboard-mmst.png" alt="MIRAGE Leaderboard" width="800"/>
+</div>
+
+## 📊 Benchmark Repository
+
+For the complete benchmark, evaluation code, and detailed documentation, visit our main repository:
+
+**[MIRAGE-Benchmark/MIRAGE](https://github.com/MIRAGE-Benchmark/MIRAGE)**
+
+## 📄 Paper
+
+**MIRAGE: A Benchmark for Multimodal Information-Seeking and Reasoning in Agricultural Expert-Guided Conversations**
+
+Available on arXiv: [2506.20100](https://arxiv.org/abs/2506.20100)
+
+## 📚 Citation
+
+```bibtex
+@article{dongre2025mirage,
+  title={MIRAGE: A Benchmark for Multimodal Information-Seeking and Reasoning in Agricultural Expert-Guided Conversations},
+  author={Dongre, Vardhan and Gui, Chi and Garg, Shubham and Nayyeri, Hooshang and Tur, Gokhan and Hakkani-T{\"u}r, Dilek and Adve, Vikram S},
+  journal={arXiv preprint arXiv:2506.20100},
+  year={2025}
+}
+```
