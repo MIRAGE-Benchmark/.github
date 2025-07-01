@@ -18,7 +18,7 @@
 
 For the complete benchmark, evaluation code, and detailed documentation, visit our main repository:
 
-**[MIRAGE-Benchmark/MIRAGE](https://github.com/MIRAGE-Benchmark/MIRAGE)**
+**[MIRAGE-Benchmark/MIRAGE](https://github.com/MIRAGE-Benchmark/MIRAGE-Benchmark)**
 
 ## 📄 Paper
 
