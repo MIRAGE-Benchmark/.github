@@ -1,13 +1,17 @@
 # MIRAGE Benchmark
 
 <div align="center">
-  <img src="data-logo.png" alt="MIRAGE Data Logo" width="400"/>
+  <img src="data-logo.png" alt="MIRAGE Data Logo" width="300"/>
 </div>
 
-## 🏆 Leaderboard
+<div align="center">
+ <h3>Multimodal Information-Seeking and Reasoning in Agricultural Expert-Guided Conversations</h3>
+</div>
+
+## 🏆 Leaderboard - Single Turn 
 
 <div align="center">
-  <img src="Leaderboard-mmst.png" alt="MIRAGE Leaderboard" width="800"/>
+  <img src="Leaderboard-mmst.png" alt="MIRAGE Leaderboard" width="900"/>
 </div>
 
 ## 📊 Benchmark Repository
